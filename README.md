@@ -7,8 +7,8 @@ This is my personal portfolio website built with pure HTML and CSS. It highlight
 
 ## 👩‍💼 About Me
 - B.Tech Computer Science student (2022–2026)  
-- Strong in problem-solving, DevOps, and Machine Learning  
-- Experience with Python, Java, Git, Azure, Streamlit, TensorFlow, etc.
+- Strong in problem-solving, sql based queries
+- Experience with Python, Java, Git, Azure, sql, html,Azure etc.
 
 ## 💼 Projects
 
