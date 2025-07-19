@@ -1,4 +1,4 @@
-# 💼 Saumya Maurya – DevOps & AI/ML Portfolio
+# 💼 Saumya Maurya 
 
 This is my personal portfolio website built with pure HTML and CSS. It highlights my academic background, technical skills, and project work in DevOps and AI/ML.
 
